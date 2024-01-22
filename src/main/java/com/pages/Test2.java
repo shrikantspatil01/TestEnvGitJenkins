@@ -12,6 +12,8 @@ public class Test2 {
 			}
 		}
 		System.out.println("Number of words == "+total);
-	}
+		
+		System.out.println("Shrikant Patil");
 
+	}
 }
